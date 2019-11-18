@@ -1,0 +1,4 @@
+module.exports = {
+  // set to location of your auth api
+  otpw2: "http://localhost:3000"
+}

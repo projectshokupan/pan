@@ -1,0 +1,4 @@
+module.exports = {
+  // set to location of your client
+  host: "http://localhost:5000/"
+}

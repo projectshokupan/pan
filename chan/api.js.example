@@ -1,0 +1,9 @@
+const endpoints = {
+  // set to locations of all apis
+  otpw2: "http://localhost:3000",
+  post: "http://localhost:3001",
+  cdn: "http://localhost:3002",
+  gallery: "http://localhost:3003"
+}
+
+module.exports = endpoints
