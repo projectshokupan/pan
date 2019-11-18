@@ -33,6 +33,7 @@ Start each server. These must be run (roughly) in order.
 * *post:* run `npm start`
 * *gallery:* run `npm start`
 * *chan:* run `npm run dev`
+
 The client should be running on port 5000 [(here)](http://localhost:5000)
 
 ### Production
